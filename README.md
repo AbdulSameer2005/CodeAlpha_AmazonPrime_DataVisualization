@@ -1,8 +1,15 @@
 # 📊 Amazon Prime Data Visualization
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Analytics-purple)
+![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-Dataset-lightblue)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Project-red)
+
 ## 👨‍💻 Author
 
-**SHAIK ABDUL SAMEER**
+<h1>SHAIK ABDUL SAMEER</h1>
 
 Python Developer | Data Analytics Enthusiast | AI/ML Aspirant
 
