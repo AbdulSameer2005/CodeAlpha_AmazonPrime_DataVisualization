@@ -62,27 +62,24 @@ The dataset contains information about movies and TV shows available on Amazon P
 
 ---
 
-## 📈 Visualizations Created
+## 📊 Project Visualizations
 
 ### 1️⃣ Movies vs TV Shows Analysis
-
-Visualizes the distribution of Movies and TV Shows available on Amazon Prime.
+![Movies vs TV Shows](movies_vs_tvshows.png)
 
 ### 2️⃣ Top 10 Countries by Content
+![Top Countries](top_10_countries.png)
 
-Shows the countries producing the highest amount of Amazon Prime content.
-
-### 3️⃣ Ratings Distribution
-
-Displays the most common content ratings available on the platform.
+### 3️⃣ Ratings Distribution Analysis
+![Ratings Distribution](ratings_distribution.png)
 
 ### 4️⃣ Release Year Trend Analysis
-
-Illustrates how content production has changed over the years.
+![Release Year Trend](release_year_trend.png)
 
 ### 5️⃣ Top Genres Analysis
+![Top Genres](top_genres.png)
 
-Highlights the most popular genres available on Amazon Prime.
+---
 
 ---
 
